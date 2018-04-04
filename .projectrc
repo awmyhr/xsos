@@ -1,0 +1,15 @@
+{
+  projectrc_version: '1.0.0',
+  contact_email: 'awmyhr@gmail.com',
+  contact_name: 'awmyhr',
+  email: 'awmyhr@gmail.com',
+  full_name: 'awmyhr',
+  project_home: 'https://github.com/awmyhr/xsos',
+  project_name: 'xsos',
+  project_slug: 'xsos',
+  project_abbr: 'xsos',
+  project_version: '2.0.0-alpha-01',
+  software_copyright: '2016 Ryan Sawhill Aroha',
+  software_license: 'GPL'
+}
+
